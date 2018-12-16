@@ -6,4 +6,6 @@ AI/algorithm solve it. The program also has a UI that allows the user to test di
 points for the maze solver. It will display these results on a maze shown above the UI. This porject was made entirely using the Unity
 game enigine and coded in C#.
 
-To run the actual program, locate the file called
+To run the actual program, locate the file called MazeSolverProgram.zip and unzip the file. The program itself is an executable that should run the project when executed.
+
+
