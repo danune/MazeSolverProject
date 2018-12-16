@@ -21,3 +21,5 @@ Similarily to the Start arrow buttons, the four arrow buttons to the right of "E
 The buttons on the far right next to "Rows" and "Columns" are buttons that increase or decrease the number of rows or columns for the maze being displayed. They function the same way the Start and End buttons function (left arrow "<" decreases value of row/column, right arrow ">" increases value of row/column.
 
 The "Solve" button will display the maze algorithm or maze solver with the solution to the maze when pressed. It will display on the maze in red, showing a path from the given starting position to the given end position.
+
+Let me know if there are any issues with the code or project itself by contacting me as soon as you can. Thanks.
