@@ -6,7 +6,11 @@ AI/algorithm solve it. The program also has a UI that allows the user to test di
 points for the maze solver. It will display these results on a maze shown above the UI. This porject was made entirely using the Unity
 game enigine and coded in C#.
 
-To run the actual program, locate the file called MazeSolverProgram.zip and unzip the file. The program itself is an executable that should run the project when executed.
+The Assests folder holds all of the 3d models, effects, sounds, or other similar objects used for the Unity 3d space. For this maze project, it holds the wall, ground, color materials, and scrpits used within the 3d space. The actual code for the project is within a folder called "Scripts" that is inside the Assets folder. Some files within this code that were used to create the maze were taken and altered from a github that I obtained from the follwoing link: https://www.youtube.com/watch?v=IrO4mswO2o4&t=539s. These files were edited in order to function properly with the maze algorithm that I created. All other files and folders within this project were created by Unity as settings for the project itself or external libraries that Unity needs to function properly.
+
+
+
+To run the actual program, locate the file called "MazeSolverProgram.zip" and unzip the file. The program itself is an executable that should run the project when executed.
 
 When executed, the program will ask about screen resolution and how you wish to display the project itself. Choose the the desired settings and click play once ready. The program will run and display the maze and several buttons as a UI.
 The buttons within the progarm do the following:
